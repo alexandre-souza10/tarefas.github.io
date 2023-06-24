@@ -3,7 +3,7 @@
 #### Pagina Inicial do Projeto:
 ![Screenshot_1](https://github.com/alexandre-souza10/tarefas.github.io/assets/74196527/b887c150-14a9-443b-963d-9737c1bfe882)
 
-### Link de acesso ao Projeto:
+### Link de acesso ao Projeto: https://tarefas-github-io.vercel.app/
 
 <br></br>
 ## Descrição do projeto:
