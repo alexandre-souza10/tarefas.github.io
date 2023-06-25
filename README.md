@@ -8,8 +8,11 @@
 <br></br>
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
+<br></br>
 
-Gift ou Video:
+Video:
+
+https://github.com/alexandre-souza10/tarefas.github.io/assets/74196527/5e1e32f0-2ff5-4dea-8526-22efff6f74dd
 
 <br></br>
 ## Liguagens e ferramentas utilizadas:
