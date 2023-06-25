@@ -19,6 +19,7 @@ https://github.com/alexandre-souza10/tarefas.github.io/assets/74196527/5e1e32f0-
 - HTML
 - CSS
 - Java Script
+- Json
 - Visual Studio Code
 
 <br></br>
