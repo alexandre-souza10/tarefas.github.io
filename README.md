@@ -7,7 +7,15 @@
 
 <br></br>
 ## Descrição do projeto:
-Aqui ficara a descrição do meu projeto.
+- Nesse Projeto foi desenvolvido uma pagina de lista de tarefas , simples e funcional cumprindo com o proposito destinado ,
+um Projeto Front-End, utilizando HTML, CSS , Java Script e React.js. Consiste em clicar no botão + , e ira acionar uma modal, onde pode descrever sua tarefa,
+e salva-la , onde ficara registrada em minhas tarefas, tendo a opção de excluir no x a frente da tarefa.
+
+- O Projeto tem a funcionalidade de mostrar uma interface dinamica de uma lista e tarefas simples e objetiva, para poder colocar qualquer tipo de tarefa , inserimos a tarefa na modal ,
+e ao salvar ela ficara registrada em minhas tarefas em forma de lista, tendo opção de excluir , ou simplesmente a deixar salva ,
+para que se lembre das tarefas do dia a dia dinamicamente.
+
+- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina de Lista de Tarefas Dinamica.
 <br></br>
 
 Video:
