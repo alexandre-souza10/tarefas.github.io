@@ -17,6 +17,7 @@ and when saving it, it will be registered in my tasks in the form of a list, hav
 so you can remember your day-to-day tasks dynamically.
 
 - Next we have a small instructional video, where we show an example of how the Dynamic Task List page works.
+
 <br></br>
 
 Video:
@@ -25,7 +26,7 @@ https://github.com/alexandre-souza10/tarefas.github.io/assets/74196527/5e1e32f0-
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - CSS
 - Java Script
