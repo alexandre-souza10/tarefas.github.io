@@ -1,21 +1,22 @@
-<h1 align="center"> Lista de Tarefas</h1>
+<h1 align="center"> Task List </h1>
 
-#### Pagina Inicial do Projeto:
+### Project Home Page:
 ![Screenshot_1](https://github.com/alexandre-souza10/tarefas.github.io/assets/74196527/b887c150-14a9-443b-963d-9737c1bfe882)
 
-### Link de acesso ao Projeto: https://tarefas-github-io.vercel.app/
+### Project access link: https://tarefas-github-io.vercel.app/
 
 <br></br>
-## Descrição do projeto:
-- Nesse Projeto foi desenvolvido uma pagina de lista de tarefas , simples e funcional cumprindo com o proposito destinado ,
-um Projeto Front-End, utilizando HTML, CSS , Java Script e React.js. Consiste em clicar no botão + , e ira acionar uma modal, onde pode descrever sua tarefa,
-e salva-la , onde ficara registrada em minhas tarefas, tendo a opção de excluir no x a frente da tarefa.
 
-- O Projeto tem a funcionalidade de mostrar uma interface dinamica de uma lista e tarefas simples e objetiva, para poder colocar qualquer tipo de tarefa , inserimos a tarefa na modal ,
-e ao salvar ela ficara registrada em minhas tarefas em forma de lista, tendo opção de excluir , ou simplesmente a deixar salva ,
-para que se lembre das tarefas do dia a dia dinamicamente.
+## Project Description:
+- In this project, a task list page was developed, simple and functional, fulfilling the intended purpose,
+a Front-End Project, using HTML, CSS, Java Script and React.js. It consists of clicking on the + button, and it will trigger a modal, where you can describe your task,
+and save it, where it will be registered in my tasks, having the option to delete it in the x in front of the task.
 
-- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina de Lista de Tarefas Dinamica.
+- The Project has the functionality of showing a dynamic interface of a simple and objective list of tasks, in order to be able to place any type of task, we insert the task in the modal,
+and when saving it, it will be registered in my tasks in the form of a list, having the option to delete it, or simply leave it saved,
+so you can remember your day-to-day tasks dynamically.
+
+- Next we have a small instructional video, where we show an example of how the Dynamic Task List page works.
 <br></br>
 
 Video:
@@ -23,7 +24,8 @@ Video:
 https://github.com/alexandre-souza10/tarefas.github.io/assets/74196527/5e1e32f0-2ff5-4dea-8526-22efff6f74dd
 
 <br></br>
-## Liguagens e ferramentas utilizadas:
+
+## Languages ​​and tools used:
 - HTML
 - CSS
 - Java Script
@@ -33,6 +35,6 @@ https://github.com/alexandre-souza10/tarefas.github.io/assets/74196527/5e1e32f0-
 
 <br></br>
 
-#### Autor: 
+#### Author: 
 **Alexandre Souza**
 
